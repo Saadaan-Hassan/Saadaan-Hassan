@@ -54,5 +54,5 @@ Full-stack product engineer at [Aurmak](https://github.com/Aurmak), open to free
 <br />
 
 <div align="center">
-<sub>Studied computer science at COMSATS Lahore, where I chaired the ACM chapter.</sub>
+<sub>Studied computer science at <a href="https://www.linkedin.com/company/comsats-university-islamabad-lahore-campus/">COMSATS Lahore</a>, where I chaired the <a href="https://www.linkedin.com/company/acmcuilhr/">ACM chapter</a>.</sub>
 </div>
