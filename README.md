@@ -26,11 +26,11 @@ Full-stack product engineer at [AURMAK](https://github.com/Aurmak), open to free
 | **[Pakistan petrol prices](https://petrolprices.saadaan.dev)**<br><sub>Web</sub> | Daily OGRA-notified fuel prices with full history, plus the Platts and exchange-rate inputs behind every change.<br><sub>Next.js · Supabase · Cloudflare Workers · Recharts</sub> | Never shows a price it can't source. A failed sync keeps the last verified price, and the test suite fails if that ever changes. |
 | **[saadaan.dev](https://www.saadaan.dev)**<br><sub>Web</sub> | My site, on a CMS I built. Its chat agent answers from published work through tool calls, and AI assistants can draft posts into the CMS over MCP.<br><sub>Next.js · Supabase · AI SDK · Groq · MCP</sub> | The chat never invents a client, a metric or a price, and the drafting credential can create drafts but never publish one. |
 
-<sub>Client work, including a RAG career and scholarship platform, a laboratory information management system and a competitive hiring platform, is written up as [case studies](https://www.saadaan.dev/case-studies).</sub>
+<sub>Client work from DotCode, including a laboratory information management system and a performance-based hiring platform, is written up as [case studies](https://www.saadaan.dev/case-studies).</sub>
 
 ## How I work
 
-- **Workflow before ticket.** A requirement tells you what someone wants built. Watching how they actually work tells you what they need, so that is where I start.
+- **Start with how people actually work.** A requirement tells you what someone wants built. Watching how they actually work tells you what they need, so that is where I start.
 - **The "never" rule comes first.** Every project above has one, and it shaped the architecture more than any feature did: Orbit's bring-your-own-key design, the petrol tracker's sync tests, the CMS's draft-only credential.
 - **Agents write a lot of my code. I own the decisions.** I review an agent's architecture the way I'd review a teammate's PR, and I built baseline-skills so the security basics don't depend on remembering to ask.
 
